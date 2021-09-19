@@ -3,7 +3,7 @@
    
    
    
-- 👀 *I'm a Machine Learning and Deep Learning Enthusiast.*
+- 👀 *I'm a Deep Learning and Computer Vision Enthusiast.*
 - 🌱 *I’m currently learning ...Deep Learning in Computer Vision*
 - 💞️ *I’m looking to collaborate on ...Deep Learning*
 - 📫 *How to reach me ...[LinkedIn](https://www.linkedin.com/in/aravinda-raman-1402/)*

@@ -8,7 +8,7 @@
 - 💞️ *I’m looking to collaborate on ...Deep Learning*
 - 📫 *How to reach me ...[LinkedIn](https://www.linkedin.com/in/aravinda-raman-1402/)*
 - 💬 *Ask me about anything.*
-- ⚡ *Fun fact: I am fitness freak.*
+- ⚡ *Fun fact: I am a fitness freak.*
 
 
 <!---

@@ -1,4 +1,4 @@
-  ### 👋 Hi, I’m Aravinda Raman J
+  ### 👋 Hi, I’m Aravinda Raman Jatavallabha
    
    
    

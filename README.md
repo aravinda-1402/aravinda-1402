@@ -4,7 +4,7 @@
    
    
 - 👀 *I'm a Data Science Enthusiast.*
-- 🌱 *I’m currently exploring NLP and learning some business analytics tools*
+- 🌱 *I’m currently exploring NLP and learning some Business Analytics tools*
 - 💞️ *I’m looking to collaborate on Deep Learning Projects*
 - 📫 *Feel free to reach me on [LinkedIn](https://www.linkedin.com/in/aravinda-raman-1402/)*
 - 💬 *Ask me about anything.*

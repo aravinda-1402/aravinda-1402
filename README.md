@@ -1,6 +1,6 @@
 # 👋 Hey there, I’m Aravinda Jatavallabha!
 
-Welcome to my data-driven domain! 📊
+### Welcome to my data-driven domain! 📊
 
 - 👀 As a fervent Data Science aficionado, I'm constantly immersed in the wonders of data exploration and analysis.
 - 🌱 Currently, I'm delving deep into the enchanting realm of Natural Language Processing, while honing my skills with various Business Analytics tools.

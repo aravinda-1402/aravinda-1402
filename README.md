@@ -48,7 +48,7 @@
 [![](https://img.shields.io/badge/Natural_Language_Processing-9932CC?style=for-the-badge)](https://en.wikipedia.org/wiki/Natural_language_processing)
 [![](https://img.shields.io/badge/Graph_Neural_Networks-4B0082?style=for-the-badge)](https://en.wikipedia.org/wiki/Graph_neural_network)
 
-## Courses
+## Certifications
 [![Static Badge](https://img.shields.io/badge/Machine%20Learning%20Specialization-Stanford-%20?style=flat&logo=coursera&color=blue)](https://www.coursera.org/account/accomplishments/verify/9AB6K4JPZSQ9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 [![Static Badge](https://img.shields.io/badge/Deep%20Learning%20Specialization-deeplearning.ai-%20?style=flat&logo=coursera&color=blue)](https://www.coursera.org/account/accomplishments/specialization/DFFQB96C6FJ2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)
 [![Static Badge](https://img.shields.io/badge/AI%20Summer%20School-IIIT%20H-%20?style=flat&logo=coursera&color=blue)](https://drive.google.com/file/d/1jPhjHO8WfoukW9IKUp8yKpRyoLKbnjFB/view)

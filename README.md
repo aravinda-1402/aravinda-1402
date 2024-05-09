@@ -1,4 +1,4 @@
-# 👋 Hey there, I’m Aravinda Jatavallabha!
+# 👋 Hey there, I’m Aravinda!
 
 ### Welcome to my data-driven domain! 📊
 

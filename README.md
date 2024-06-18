@@ -3,7 +3,7 @@
 ### Welcome to my data-driven domain! 📊
 
 - 👀 As a fervent Data Science aficionado, I'm constantly immersed in the wonders of data exploration and analysis.
-- 🌱 Currently, I'm delving deep into the enchanting realm of Predictive Analytics, while honing my skills with various Business Analytics tools.
+- 🌱 Currently, I'm delving deep into the enchanting realm of Predictive Analytics and Generative AI.
 - 💞️ Passionate about collaboration, I'm eager to team up on stimulating Deep Learning Projects that push the boundaries of what's possible with data.
 - 📫 Let's connect and dive into the data together! Find me on [LinkedIn](https://www.linkedin.com/in/aravinda-raman-1402/).
 - 💬 Got a burning question about data science? Fire away! I'm here to unravel the mysteries of data.

@@ -2,12 +2,15 @@
 
 ### Welcome to my data-driven domain! 📊
 
+- 📄 Find my resume [here](https://drive.google.com/file/d/1QaZJ6nuGTcXGb9KtWww11QOJnbYmmx7w/view?usp=drive_link).
 - 👀 As a fervent Data Science aficionado, I'm constantly immersed in the wonders of data exploration and analysis.
 - 🌱 Currently, I'm delving deep into the enchanting realm of Predictive Analytics and Generative AI.
 - 💞️ Passionate about collaboration, I'm eager to team up on stimulating Deep Learning Projects that push the boundaries of what's possible with data.
 - 📫 Let's connect and dive into the data together! Find me on [LinkedIn](https://www.linkedin.com/in/aravinda-raman-1402/).
 - 💬 Got a burning question about data science? Fire away! I'm here to unravel the mysteries of data.
 - ⚡ Fun fact: When I'm not crunching numbers, you can find me breaking a sweat as a fitness enthusiast, balancing algorithms with adrenaline-pumping workouts! 🏋️‍♂️💻
+
+
 
 ## Programming Languages & Technologies
 [![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)

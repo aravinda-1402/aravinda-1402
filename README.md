@@ -2,7 +2,7 @@
 
 ### Welcome to my data-driven domain! 📊
 
-- 📄 Find my resume [here](https://drive.google.com/file/d/1QaZJ6nuGTcXGb9KtWww11QOJnbYmmx7w/view?usp=drive_link).
+- 📄 Find my resume [here](https://drive.google.com/file/d/1AXVdlSWvu4mEfPYCZtuBP10kj5RTGZJf/view?usp=sharing).
 - 👀 As a fervent Data Science aficionado, I'm constantly immersed in the wonders of data exploration and analysis.
 - 🌱 Currently, I'm delving deep into the enchanting realm of Predictive Analytics and Generative AI.
 - 💞️ Passionate about collaboration, I'm eager to team up on stimulating Deep Learning Projects that push the boundaries of what's possible with data.

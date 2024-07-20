@@ -1,6 +1,12 @@
+<div align="center">
+
 # 👋 Hey there, I’m Aravinda!
 
-### Welcome to my data-driven domain! 📊
+### With 2+ years of data science experience, I'm seeking full-time Data Science/Analytics roles to solve real-world problems.
+
+</div>
+
+---
 
 - 📄 Find my resume [here](https://drive.google.com/file/d/14qToTET1nOcidoaW0tvtF8mPYm4XyGsA/view?usp=sharing).
 - 👀 As a fervent Data Science enthusiast, I'm constantly immersed in the wonders of data exploration and analysis.
@@ -9,6 +15,8 @@
 - 📫 Let's connect and dive into the data together! Find me on [LinkedIn](https://www.linkedin.com/in/aravinda-raman-1402/).
 - 💬 Got a burning question about data science? Fire away! I'm here to unravel the mysteries of data.
 - ⚡ Fun fact: When I'm not crunching numbers, you can find me breaking a sweat as a fitness enthusiast, balancing algorithms with adrenaline-pumping workouts! 🏋️‍♂️💻
+
+
 
 
 

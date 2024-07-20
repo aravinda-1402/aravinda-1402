@@ -1,14 +1,16 @@
+![Profile Views](https://komarev.com/ghpvc/?username=aravinda-1402&color=blue)
 <div align="center">
 
 # 👋 Hey there, I’m Aravinda!
 
-### With 2+ years of data science experience, I'm seeking full-time Data Science/Analytics roles to solve real-world problems.
+### Data Scientist | Predictive Analytics | Machine Learning
 
 </div>
 
 ---
 
 - 📄 Find my resume [here](https://drive.google.com/file/d/14qToTET1nOcidoaW0tvtF8mPYm4XyGsA/view?usp=sharing).
+- 💼 With 2+ years of data science experience, I'm seeking full-time Data Science/Analytics roles to solve real-world problems.
 - 👀 As a fervent Data Science enthusiast, I'm constantly immersed in the wonders of data exploration and analysis.
 - 🌱 Currently, I'm delving deep into the enchanting realm of Predictive Analytics and Generative AI.
 - 💞️ Passionate about collaboration, I'm eager to team up on stimulating Deep Learning Projects that push the boundaries of what's possible with data.

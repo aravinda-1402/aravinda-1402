@@ -1,7 +1,9 @@
 ![Profile Views](https://komarev.com/ghpvc/?username=aravinda-1402&color=blue)
 <div align="center">
-
-# 👋 Hey there, I’m Aravinda!
+  
+<h1 align="center">
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Verdana+Bold&size=40&color=000000&center=true&vCenter=true&width=800&height=70&duration=4000&lines=Hey+There!+👋;+I'm+Aravinda!;+Welcome+to+my+GitHub+Profile!;" />
+</h1>
 
 ### Data Science | Predictive Analytics | Machine Learning
 

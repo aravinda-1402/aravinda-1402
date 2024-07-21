@@ -3,7 +3,7 @@
 
 # 👋 Hey there, I’m Aravinda!
 
-### Data Scientist | Predictive Analytics | Machine Learning
+### Data Science | Predictive Analytics | Machine Learning
 
 </div>
 

@@ -11,7 +11,7 @@
 
 ---
 
-- 📄 Find my resume [here](https://drive.google.com/file/d/14qToTET1nOcidoaW0tvtF8mPYm4XyGsA/view?usp=sharing).
+- 📄 Find my resume [here](https://drive.google.com/file/d/1rbkd2BYJdzDGx8Ebwl9vU8GK2vmz4Hb6/view?usp=sharing).
 - 🎓 Pursuing a Master of Computer Science degree at NC State University.
 - 💼 With 2+ years of Data Science experience, I'm seeking full-time Data Science/Analytics roles to solve real-world problems.
 - 👀 As a fervent Data Science enthusiast, I'm constantly immersed in the wonders of data exploration and analysis.
@@ -36,6 +36,11 @@
 [![](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)](https://spark.apache.org/)
 [![](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)](https://www.docker.com/)
 [![](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)](https://www.linux.org/)
+[![](https://img.shields.io/badge/Amazon_SageMaker-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/sagemaker/)
+[![](https://img.shields.io/badge/Amazon_ECR-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/ecr/)
+[![](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)](https://aws.amazon.com/s3/)
+[![](https://img.shields.io/badge/Amazon_CloudWatch-FF4F8B?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com/cloudwatch/)
+[![](https://img.shields.io/badge/Apache_Airflow-017CEE?style=for-the-badge&logo=apache-airflow&logoColor=white)](https://airflow.apache.org/)
 
 
 ## Libraries
@@ -51,7 +56,6 @@
 [![](https://img.shields.io/badge/NLTK-41B883?style=for-the-badge&logo=nltk&logoColor=white)](https://www.nltk.org/)
 [![](https://img.shields.io/badge/PyG-5E8B7E?style=for-the-badge&logo=python&logoColor=white)](https://pytorch-geometric.readthedocs.io/en/latest/)
 [![](https://img.shields.io/badge/SpaCy-000000?style=for-the-badge&logo=spacy&logoColor=white)](https://spacy.io/)
-[![](https://img.shields.io/badge/MLflow-FF4747?style=for-the-badge&logo=mlflow&logoColor=white)](https://mlflow.org/)
 [![](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://www.scipy.org/)
 
 ##  Data Science & Machine Learning

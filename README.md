@@ -11,7 +11,7 @@
 
 ---
 
-- 📄 Find my resume [here](https://drive.google.com/file/d/1XLYvhx-Fj-UnHFgmK1vgJ3V4xgB6sJ0f/view?usp=sharing).
+- 📄 Find my resume [here](https://drive.google.com/file/d/1C_NhZi4XzLLgJ2o43hrYzxhZo6PkEafQ/view?usp=sharing).
 - 🎓 Pursuing a Master of Computer Science degree at NC State University.
 - 💼 With 2.5+ years of Data Science experience, I'm seeking full-time Data Science/Analytics roles to solve real-world problems.
 - 👀 As a fervent Data Science enthusiast, I'm constantly immersed in the wonders of data exploration and analysis.

@@ -69,6 +69,11 @@
 [![](https://img.shields.io/badge/Natural_Language_Processing-9932CC?style=for-the-badge)](https://en.wikipedia.org/wiki/Natural_language_processing)
 [![](https://img.shields.io/badge/Graph_Neural_Networks-4B0082?style=for-the-badge)](https://en.wikipedia.org/wiki/Graph_neural_network)
 
+## Generative AI & Large Language Models  
+[![](https://img.shields.io/badge/LangChain-FF4500?style=for-the-badge&logo=langchain&logoColor=white)](https://www.langchain.com/) [![](https://img.shields.io/badge/Retrieval_Augmented_Generation_(RAG)-9400D3?style=for-the-badge)](https://en.wikipedia.org/wiki/Retrieval-Augmented_Generation) [![](https://img.shields.io/badge/Prompt_Engineering-FF69B4?style=for-the-badge)](https://en.wikipedia.org/wiki/Prompt_engineering) [![](https://img.shields.io/badge/Large_Language_Models_(LLMs)-1E90FF?style=for-the-badge)](https://en.wikipedia.org/wiki/Large_language_model) [![](https://img.shields.io/badge/OpenAI_API-008080?style=for-the-badge&logo=openai&logoColor=white)](https://platform.openai.com/) [![](https://img.shields.io/badge/Hugging_Face-FFAD00?style=for-the-badge&logo=hugging-face&logoColor=black)](https://huggingface.co/) [![](https://img.shields.io/badge/Pinecone-00C7B7?style=for-the-badge&logo=pinecone&logoColor=white)](https://www.pinecone.io/)
+
+
+
 ## Certifications
 [![Static Badge](https://img.shields.io/badge/Machine%20Learning%20Specialization-Stanford-%20?style=flat&logo=coursera&color=blue)](https://www.coursera.org/account/accomplishments/verify/9AB6K4JPZSQ9?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=course)
 [![Static Badge](https://img.shields.io/badge/Deep%20Learning%20Specialization-deeplearning.ai-%20?style=flat&logo=coursera&color=blue)](https://www.coursera.org/account/accomplishments/specialization/DFFQB96C6FJ2?utm_source=link&utm_medium=certificate&utm_content=cert_image&utm_campaign=sharing_cta&utm_product=s12n)

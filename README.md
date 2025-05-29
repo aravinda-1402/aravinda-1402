@@ -10,7 +10,7 @@
 </div>
 
 ---
-📃 Find my resume [here](https://drive.google.com/file/d/1R8hsQP64KQUHrLr3-IClhsA3CuVl_kx1/view?usp=sharing). 
+📃 Find my resume [here](https://drive.google.com/file/d/1kkOk9RFat2YopxQjO2TEYWSGPSvUcxRp/view?usp=sharing). 
 ---
 - 🎓  <b>Master of Computer Science graduate</b> from North Carolina State University, May 2025.
 - 💼 With 2.5+ years of Data Science/Software Engineering experience, <b>I'm seeking full-time Data Science/Analytics/SDE roles to solve real-world problems.</b>

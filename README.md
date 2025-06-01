@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+UI&size=40&color=000000&center=true&vCenter=true&width=800&height=70&duration=3000&lines=Hey+there!+👋;+I'm+Aravinda!;+Welcome+to+my+GitHub+Profile!;" />
 </h1>
 
-### Data Science | Predictive Analytics | Machine Learning | GenAI | Privacy
+### AI | Data Science | Predictive Analytics | Machine Learning | GenAI | Privacy
 
 </div>
 
@@ -13,7 +13,7 @@
 📃 Find my resume [here](https://drive.google.com/file/d/1xlTsq9lsD-4cAVj3KwamEsGFS3nn7qTF/view?usp=sharing). 
 ---
 - 🎓  <b>Master of Computer Science graduate</b> from North Carolina State University, May 2025.
-- 💼 With 2.5+ years of Data Science/Software Engineering experience, <b>I'm seeking full-time Data Science/Analytics/SDE roles to solve real-world problems.</b>
+- 💼 With 2.5+ years of Data Science/Software Engineering experience, <b>I'm seeking full-time AI/ML/Data Science/Analytics/SDE roles to solve real-world problems.</b>
 - 👀 As a fervent Data Science enthusiast, I'm constantly immersed in the wonders of data exploration and analysis.
 - 🌱 Currently, I'm delving deep into the enchanting realm of Predictive Analytics and Generative AI.
 - 💞️ Passionate about collaboration, I'm eager to team up on stimulating Deep Learning Projects that push the boundaries of what's possible with data.

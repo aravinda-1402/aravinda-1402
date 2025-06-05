@@ -10,7 +10,8 @@
 </div>
 
 ---
-📃 Find my resume [here](https://drive.google.com/file/d/1xlTsq9lsD-4cAVj3KwamEsGFS3nn7qTF/view?usp=sharing). 
+📃 Find my resume [here](https://drive.google.com/file/d/1xlTsq9lsD-4cAVj3KwamEsGFS3nn7qTF/view?usp=sharing).<br>
+🌐 Visit my portfolio website [here](https://aravinda-1402.github.io/).
 ---
 - 🎓  <b>Master of Computer Science graduate</b> from North Carolina State University, May 2025.
 - 💼 With 2.5+ years of Data Science/Machine Learning experience, <b>I'm seeking full-time AI/ML/Data Science/Analytics/SDE roles to solve real-world problems.</b>

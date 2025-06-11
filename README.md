@@ -5,7 +5,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Segoe+UI&size=40&color=000000&center=true&vCenter=true&width=800&height=70&duration=3000&lines=Hey+there!+👋;+I'm+Aravinda!;+Welcome+to+my+GitHub+Profile!;" />
 </h1>
 
-### AI | Data Science | Predictive Analytics | Machine Learning | GenAI | Privacy
+### AI | Data Science | Full-Stack | Predictive Analytics | Machine Learning | GenAI | Privacy
 
 </div>
 

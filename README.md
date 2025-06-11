@@ -10,7 +10,7 @@
 </div>
 
 ---
-📃 Find my resume [here](https://drive.google.com/file/d/1xlTsq9lsD-4cAVj3KwamEsGFS3nn7qTF/view?usp=sharing).<br>
+📃 Find my resume [here](https://drive.google.com/file/d/1Ch2Q6mcTmAFyUh6GohdpaYyk5mqDRWwb/view?usp=sharing).<br>
 🌐 Visit my portfolio website [here](https://aravinda-1402.github.io/).
 ---
 - 🎓  <b>Master of Computer Science graduate</b> from North Carolina State University, May 2025.

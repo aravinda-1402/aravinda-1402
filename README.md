@@ -16,7 +16,7 @@
 - 🎓  <b>Master of Computer Science graduate</b> from North Carolina State University, May 2025.
 - 💼 With 2.5+ years of Data Science/Machine Learning experience, <b>I'm seeking full-time AI/ML/Data Science/Analytics/SDE roles to solve real-world problems.</b>
 - 👀 As a fervent Data Science enthusiast, I'm constantly immersed in the wonders of data exploration and analysis.
-- 🌱 Currently, I'm delving deep into the enchanting realm of Predictive Analytics and Generative AI.
+- 🌱 Currently, I'm delving deep into the enchanting realm of Agentic AI.
 - 💞️ Passionate about collaboration, I'm eager to team up on stimulating Deep Learning Projects that push the boundaries of what's possible with data.
 - 📫 Let's connect and dive into the data together! Find me on [LinkedIn](https://www.linkedin.com/in/aravinda-jatavallabha/) or email me at aravindaraman04@gmail.com or aravindaraman14@gmail.com.
 - 💬 Got a burning question about data science? Fire away! I'm here to unravel the mysteries of data.
